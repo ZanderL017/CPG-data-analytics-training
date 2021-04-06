@@ -1,4 +1,4 @@
-# CPG Data Analytics Training
+# IN PROGRESS! CPG Data Analytics Training
 
 Welcome! Here you can find all the necessary materials to start learning how to work with and visualize data.
 
